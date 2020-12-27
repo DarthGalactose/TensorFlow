@@ -25,7 +25,7 @@ With TensorFlow 2.0, eager execution is activated by default and the very cool t
 
 This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
 
-Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
+Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself, you'll definitely internalize the material.
 
 ### Tasks
 
@@ -54,4 +54,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
+
+
 
